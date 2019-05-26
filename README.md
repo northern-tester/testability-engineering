@@ -12,13 +12,13 @@ This repository holds a set of **testability engineering principles** that are d
 
 This is a call to action. On our cross functional teams we talk about how testing is for the whole team. Quality is everyone's responsibility. How much are we really doing to make this happen? Often we are working on systems that are hard to test for many reasons, but if we simply do more testing, write more automation we are neglecting what should be our main mission, advocating for increasing levels of testability, to truly get everyone involved in testing. We all have stories about how something is difficult to test, often never being tested or certainly left with the tester to figure it out.
 
-We want to introduce a set of principles for testability engineering. A new way to approach our work as testers. These principles will tackle how we make our systems more observable, controllable, how we share knowledge across teams and improve the testability of our dependencies. We believe it is time to create a new focus on testability, as it affects everything we do, what our teams do and how value is delivered for customers.
+We want to introduce a set of principles for testability engineering. These principles will tackle how we make our systems more observable, controllable, how we share knowledge across teams and improve the testability of our dependencies. We believe it is time to create a new focus on testability, as it affects everything we do, what our teams do and how value is delivered for customers.
 
 For more information on how to get started with testability engineering:
 
-> [Team Guide to Software Testability](http://testabilitybook.com/)
-> [Questions to assess the testability of software systems](http://TestabilityQuestions.com/)
-> [30 Days of Testability](https://www.ministryoftesting.com/dojo/lessons/30-days-of-testability)
+* [Team Guide to Software Testability](http://testabilitybook.com/)
+* [Questions to assess the testability of software systems](http://TestabilityQuestions.com/)
+* [30 Days of Testability](https://www.ministryoftesting.com/dojo/lessons/30-days-of-testability)
 
 **We hope that these principles about testability engineering encourage you to change and improve both your own system, the integration with your dependencies and your relationship with the teams around you.**
 
