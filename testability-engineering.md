@@ -16,7 +16,7 @@ We will work towards a highly testable system which is the most effective route 
 
 We believe that the testability of our application architecture is a leading indicator of quality. Designing our architectures for testability, with early and often consideration for testing increases flow of value and reduces toil.
 
-### Striving for simplicity enhances testability through common understanding
+### Striving for common understanding through simplicity
 
 We understand that testable systems strive for simplicity and benefit all through creating common understanding. Excessive complexity excludes contribution to the team testing culture, therefore our understanding of risks and the needs of all involved.
   
@@ -24,7 +24,7 @@ We understand that testable systems strive for simplicity and benefit all throug
 
 We believe that the quality of our relationships within our organisation increase testability by profound understanding of risk and reward. Knowing what is valued by the team and those connected to it targets our testability to the best return on investment.
 
-### Observability enables deep investigation of risk
+### Observability helps us to find the problems that hurt the most
 
 We understand that a testable system enables deep investigation of the risks that we identify and unanticipated problems that may occur. Testing is skilled exploration for information about threats to value, observability tools and techniques are the lens to view and filter that information.
 
