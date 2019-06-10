@@ -4,7 +4,7 @@
 
 Engineering for testability intends to create a culture of co-development for all who contribute to a product, working to reduce toil and tension caused by difficult to test systems.
 
-### Speed, cadence and quality of feedback is determined by testability
+### Improving testability gives actionable feedback
 
 We believe that a focus on improving testability gives the team meaningful feedback at a cadence appropriate to their work. Risk accumulates as feedback slows, testability not only increases the cadence and speed, but also the quality of that feedback.
 
@@ -15,10 +15,6 @@ We will work towards a highly testable system which is the most effective route 
 ### Architectures designed for testability improve flow
 
 We believe that the testability of our application architecture is a leading indicator of quality. Designing our architectures for testability, with early and often consideration for testing increases flow of value and reduces toil.
-
-### Striving for common understanding through simplicity
-
-We understand that testable systems strive for simplicity and benefit all through creating common understanding. Excessive complexity excludes contribution to the team testing culture, therefore our understanding of risks and the needs of all involved.
   
 ### Better organisational relationships increase testability
 
