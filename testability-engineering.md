@@ -24,7 +24,7 @@ We believe that the quality of our relationships within our organisation increas
 
 We understand that a testable system enables deep investigation of the risks that we identify and unanticipated problems that may occur. Testing is skilled exploration for information about threats to value, instrumenting our application code  to increase observability enhances that exploration. Observability tools and techniques are the lens to visualise and filter that information.
 
-### Systems are ready to test when they can be controlled
+### Testing is most effective when state can be controlled
 
 We understand that when your system state is not controllable the side effects of testing cannot be observed, which compromise the effectiveness of your testing. For testing to give the most relevant and timely information, controllability is required.
 
