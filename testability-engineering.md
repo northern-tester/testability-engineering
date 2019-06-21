@@ -6,7 +6,7 @@ Engineering for testability intends to create a culture of co-development for al
 
 ### Each layer of your architecture must have feedback loops
 
-We believe that a focus on improving testability gives the team meaningful feedback at a cadence appropriate to their work. Risk accumulates as feedback slows, testability not only increases the cadence and speed, but also the quality of that feedback.
+We understand that risk will accumulate in every layer of a system if they do not have feedback loops. If your system does not provide application and diagnostic information for each architectural layer, the value of your tests will be compromised.
 
 ### Testable systems create the conditions for collaboration
 
